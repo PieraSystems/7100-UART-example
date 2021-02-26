@@ -12,12 +12,12 @@
 
 ## Instructions
 1. Snap crimped wires into 5 pin connector to make a plug for the 7100.
-1. Attach **7100** to **ESP32** devkit per wiring diagram above.
+1. Attach 7100 to ESP32 devkit per wiring diagram above.
     1. **VDD** on 7100 to **5V** on ESP32
     1. **RX** on 7100 to **Pin 17** on ESP32
     1. **TX** on 7100 to **Pin 16** on ESP32
     1. **SEL** on 7100 leave **floating**
     1. **GND** on 7100 to **GND** on ESP32
-1. Copy GitHub files and load code into **VSCode** (*must have Platform.io extension*).
+1. Copy GitHub files and load code into VSCode (*must have Platform.io extension*).
 1. Flash ESP32 with code.
 1. Open up serial terminal (baud rate 115200) to view data.
