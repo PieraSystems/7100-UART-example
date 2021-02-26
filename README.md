@@ -1,14 +1,14 @@
 # 7100-UART-example
 
 ## Parts required
-* (Piera Systems IPS-7100)[https://www.pierasystems.com/products/]
-* (ESP32 devkit)[https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810]
-* (5 pin 1.50mm connector)[https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/648005113322/2508649?s=N4IgTCBcDaIGwBYAcAGFBWAjJgzDsEAugL5A]
-* (Crimped wires (these snap into connector))[https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASZHSZH28K305/6009456?s=N4IgTCBcDaICwFYEFoDMAGAHO5A5AIiALoC%2BQA]
+* [Piera Systems IPS-7100](https://www.pierasystems.com/products/)
+* [ESP32 devkit](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810)
+* [5 pin 1.50mm connector](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/648005113322/2508649?s=N4IgTCBcDaIGwBYAcAGFBWAjJgzDsEAugL5A)
+* [Crimped wires (these snap into connector)](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASZHSZH28K305/6009456?s=N4IgTCBcDaICwFYEFoDMAGAHO5A5AIiALoC%2BQA)
 * USB to micro USB cord (to power ESP32)
 
 ## Wiring Diagram
-![Wiring Diagram](7100esp32.jpg)
+![Wiring Diagram](../7100esp32.jpg?raw=true)
 
 ## Instructions
 1. Snap crimped wires into 5 pin connector to make a plug for the 7100.
