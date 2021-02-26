@@ -8,7 +8,7 @@
 * USB to micro USB cord (to power ESP32)
 
 ## Wiring Diagram
-![Wiring Diagram](../7100esp32.jpg?raw=true)
+![Wiring Diagram](../main/7100esp32.jpg?raw=true)
 
 ## Instructions
 1. Snap crimped wires into 5 pin connector to make a plug for the 7100.
